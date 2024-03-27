@@ -1,11 +1,12 @@
-# Aplikasi pelayanan kesehatan kucing dengan computer vision berbasis artificial intelligence
+# Skined - Aplikasi Deteksi Penyakit Kulit Menggunakan Artificial Intelligence
 
-
-Proyek 3
+Proyek Akhir (TA) dari program Kampus Merdeka Studi Independen Bersertifikat - AI Mastery Program Orbit Future Academy
 Anggota :
-- Gina Nazwa (2105040)
-- Luthfiya Aura Nur Afifa (2105046) 
-- Nurul Fauziah (2105053)
+- Ahmad Zakaria Fathoni (Mobile Flutter)
+- Riyagung Nuryusufa T.A.P (Data & Machine Learning)
+- Kholan Mustaqim (Data & Machine Learning)
+- Muhammad Afif (UI/UX)
+- Dames Adriyana (UI/UX)
 
 
 # Screnshoot
