@@ -2,6 +2,7 @@
 
 
 Proyek 3
+Dosen Fasilitator: Darsih. S.Kom,.M.Kom
 Anggota :
 - Gina Nazwa (2105040)
 - Luthfiya Aura Nur Afifa (2105046) 
